@@ -1,0 +1,19 @@
+{   
+    "shoes": [
+        {
+            "id": 1,
+            "name": "Air Max 97 Triple Black",
+            "price": 1000,
+            "imgName": "nike97_tripleblack.png",
+            "currency": "kroner"
+
+        },
+        {
+            "id": 2,
+            "imgName": "",
+            "price": 200,
+            "currency": "kroner"
+
+        }
+    ]
+}
