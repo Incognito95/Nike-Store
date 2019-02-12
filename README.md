@@ -1,6 +1,6 @@
 # Nike-Store
 
-This is an ecommerce Nike Store that im making by Shopify
+This is an ecommerce Nike Store that I made using Shopify
 
 # Home Page
 ![](./HomePage.png)
