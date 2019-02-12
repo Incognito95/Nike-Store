@@ -10,7 +10,7 @@ This is an ecommerce Nike Store that im making by Shopify
 ![](./Products.png)
 # Single Product
 ![](./SingleProduct.png)
-![](./Single Product-1.png)
+![](./SingleProduct-1.png)
 # Cart
 ![](./Cart.png)
 ![](./Cart-1.png)
