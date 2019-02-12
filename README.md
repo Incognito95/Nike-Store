@@ -1,3 +1,3 @@
 # Nike-Store
 
-![](/HomePage.png)
+![](./design/HomePage.png)
