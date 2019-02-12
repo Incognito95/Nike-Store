@@ -1,6 +1,6 @@
 # Nike-Store
 
-# 1
+#### 1
 The problem that I had to overcome was to try to find where all the different parts of the code was in the projects, because all the files were scattered around. By overcoming that I stuck to 2 main folders which were the assets which keeps all my stylesheets and js files and the sections folder which contains all the different parts of html broken down into separate files.
 
 #### 2
